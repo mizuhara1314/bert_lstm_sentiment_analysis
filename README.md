@@ -10,3 +10,7 @@ bert_lstm:訓練集(99.22%)
 所以得用bert_chinese_base的token分詞器才能在訓練過程中讓bert讀懂
 # 功能擴展
 之後再會是我的直播間情緒分析預測網站其中一個模塊
+
+# 模型下載
+https://drive.google.com/file/d/1R3AWPTiEpY7qDTN8bq6VG3VGX3QOwlR4/view?usp=sharing
+
