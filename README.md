@@ -1,6 +1,7 @@
 # bert_lstm_sentiment_analysis
 基於預訓練bert模型並加入lstm層的改良，對直播間留言的情感分析
-
+# 使用技術
+transformer , pytorch
 
 # 成果
 bert_base:訓練集(99%)
