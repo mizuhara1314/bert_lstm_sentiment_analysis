@@ -12,4 +12,4 @@ transformer , pytorch
 
 # 模型下載
 
-
+https://drive.google.com/file/d/1lnJuSLQKl6Xi-o9SYQ3hwElazgswvjKf/view?usp=sharing
