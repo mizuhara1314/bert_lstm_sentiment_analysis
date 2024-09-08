@@ -13,5 +13,5 @@ bert_lstm:訓練集(99.22%)
 之後再會是我的直播間情緒分析預測網站其中一個模塊
 
 # 模型下載
-https://drive.google.com/file/d/1R3AWPTiEpY7qDTN8bq6VG3VGX3QOwlR4/view?usp=sharing
+
 
