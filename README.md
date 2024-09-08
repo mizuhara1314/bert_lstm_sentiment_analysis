@@ -3,9 +3,7 @@
 # 使用技術
 transformer , pytorch
 
-# 成果
-bert_base:訓練集(99%)
-bert_lstm:訓練集(99.22%)
+
 # 踩坑經驗
 本來是先進行jieba分詞並使用keras的token來建立詞向量，但這會與之後導入預訓練bert模型會衝突，BERT 使用的中文分詞是 WordPiece 分词器，
 所以得用bert_chinese_base的token分詞器才能在訓練過程中讓bert讀懂
