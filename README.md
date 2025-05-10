@@ -1,5 +1,8 @@
 # bert_lstm_sentiment_analysis
 基於預訓練bert模型並加入lstm層的改良，對直播間留言的情感分析，可以自行把訓練集換成繁體產生繁體專用模型
+
+更新:目前colab上的notebook都無法在github上檢閱，請自行下載即可
+
 # 使用技術
 transformer , pytorch
 
