@@ -6,6 +6,11 @@
 # 使用技術
 transformer , pytorch
 
+# 成果
+
+<img width="980" height="773" alt="image" src="https://github.com/user-attachments/assets/6057bf25-8aea-44dc-a20b-7d22e865545c" />
+
+<img width="928" height="414" alt="image" src="https://github.com/user-attachments/assets/5cd3a008-8eaf-4ce4-a268-4d4ae2ae7f31" />
 
 # 踩坑經驗
 本來是先進行jieba分詞並使用keras的token來建立詞向量，但這會與之後導入預訓練bert模型會衝突，BERT 使用的中文分詞是 WordPiece 分词器，
